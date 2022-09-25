@@ -12,6 +12,7 @@ As mentioned, the program will generate a csv file that can be imported onto goo
 6. Click/Check the WKT box; select "Continue"
 7. Select the "name" button; select "Finish"
 8. DONE! Hopefully, all goes well up to this point.
-9. If you select the "Lot" element, it will show you the closure error and the lot area
-10. The lot area is calculated directly by google map - this is an extra check
-11. Contact me if you have a problem
+
+If you select the "Lot" element, it will show you the closure error and the lot area.
+The lot area is calculated directly by google map - consider this an extra check.
+Contact me if you have a problem.
